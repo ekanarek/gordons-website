@@ -1,4 +1,3 @@
-const container = document.querySelector(".container");
 const catButton = document.getElementById("translate-cat");
 const humanButton = document.getElementById("translate-human");
 
